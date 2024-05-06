@@ -5,4 +5,3 @@ Fiz esse repositório para compartilhar minhas soluções de atividades feitas n
 plataforma codwars, que uso diariamente para praticar minha lógica.
 
 # Perfil codwars:<br>https://www.codewars.com/users/nick%20pack
-# Perfil leetcode: <br>https://leetcode.com/u/erickromao/
